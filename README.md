@@ -50,3 +50,9 @@ of that word.
   ```
 * Returns `404 Not Found` if the word is not specified (`GET /word` or `GET /word/`). The response
   body here is irrelevant
+  
+  
+  
+  ---------------------------------------------------------------------------------------------------------
+  
+  Note -- Please get the file from the reposioty path anagram/src/main/resources/linuxword.txt and copy under c://logs//
